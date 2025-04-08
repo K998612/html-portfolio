@@ -1,0 +1,6 @@
+[21-Mar-2023 20:42:22 UTC] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/earn04127826/public_html/index.php on line 31
+[21-Mar-2023 20:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/earn04127826/public_html/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/earn04127826/public_html/index.php on line 33
+[28-Mar-2023 03:07:44 UTC] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/earn04127826/public_html/PHPMailer/PHPMailer.php on line 3631
